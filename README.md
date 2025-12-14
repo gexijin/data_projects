@@ -1,13 +1,15 @@
 # DS and ML Projects <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/DS_and_ML_projects?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">
 
 
-## Forked from [hhhrrrttt222111/DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects) without the large files.
+
 
 <br>
 
 # [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) &nbsp;&nbsp; :snake: 
 
 <br>
+
+## Forked from [hhhrrrttt222111/DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects) without the large files.
 
 ### This repository contains Data Science & Machine Learning projects and tutorials from beginner to advanced level.
 
